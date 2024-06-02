@@ -1,0 +1,8 @@
+﻿  workerManager.cpp
+G:\职工管理系统\职工管理系统\workerManager.cpp(349,4): warning C4102: “case1”: 未引用的标签
+G:\职工管理系统\职工管理系统\workerManager.cpp(352,4): warning C4102: “case2”: 未引用的标签
+  workerManager.h
+  职工管理系统.cpp
+  正在生成代码...
+职工管理系统\x64\Debug\workerManager.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  职工管理系统.vcxproj -> G:\职工管理系统\职工管理系统\x64\Debug\职工管理系统.exe
